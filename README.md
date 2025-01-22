@@ -4,7 +4,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding GIF"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=Assalomu+Aleykum!;I'm+Diyorbek+Xasanboyev;Django+%26+Python+Backend+Developer;Always+Striving+for+Excellence!+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212558871-2b6a88f5-8b02-4c24-87fa-7f4c29067a1e.gif" width="70%" alt="Unique Coding Animation"/>
+</p>
 ---
 
 ## 🚀 About Me  
