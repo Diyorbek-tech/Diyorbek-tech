@@ -37,9 +37,8 @@
 </p>
 
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Assalomu+Alaykum!+Men+Diyorbek.;Backend+Dasturchiman!;Python+va+Django+Mutaxassisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A9A9A9&width=435&lines=Assalomu+Alaykum!+Men+Diyorbek.;Backend+Dasturchiman!;Python+va+Django+Mutaxassisi" alt="Typing SVG" />
 </p>
 
 
