@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212558871-2b6a88f5-8b02-4c24-87fa-7f4c29067a1e.gif" width="70%" alt="Unique Coding Animation"/>
 </p>
----
+
 
 ## 🚀 About Me  
 - 🔭 I’m currently working on **Django and REST API development.**  
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: _"Coding is an art that never stops evolving."_  
 - 💬 Ask me about **Django, DRF, PostgreSQL, and Python tricks.**
 
----
+
 
 ## 🛠 Tech Stack  
 <p align="center">
@@ -40,7 +40,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyorbek-Xasanboyev&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 ## 🏆 Achievements  
 - 🏅 Developed 5+ successful Django projects  
@@ -57,7 +56,7 @@
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Diyorbek-Xasanboyev&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
@@ -67,5 +66,5 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=32CD32&center=true&vCenter=true&width=450&lines=Django+%26+Python+Backend+Developer;Always+Learning+New+Techs;Backend+Magic+Creator!" alt="Typing SVG" />
 </p>
 
----
+
 
