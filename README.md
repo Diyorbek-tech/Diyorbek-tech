@@ -40,6 +40,7 @@
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diyorbek-tech&layout=compact&theme=tokyonight" />
 </p>
 ![Diyorbek's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Diyorbek-tech&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streaks.vercel.app/?user=Diyorbek-tech&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
