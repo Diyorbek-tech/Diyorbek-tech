@@ -39,8 +39,22 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diyorbek-tech&layout=compact&theme=tokyonight" />
 </p>
-![Diyorbek's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Diyorbek-tech&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streaks.vercel.app/?user=Diyorbek-tech&theme=tokyonight)](https://git.io/streak-stats)
+
+
+![Metrics](https://metrics.lecoq.io/Diyorbek-tech?template=classic&repositories.forks=true&isocalendar=1&languages=1&achievements=1&notable=1&activity=1&repositories=100&repositories.affiliations=owner&repositories.batch=100)
+
+
+[![GitHub Skyline](https://skyline.github.com/Diyorbek-tech/2023)](https://skyline.github.com/Diyorbek-tech)
+
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diyorbek-tech&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Diyorbek-tech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Assalomu+Alaykum!+Men+Diyorbek.;Backend+Dasturchiman!;Python+va+Django+Mutaxassisi" alt="Typing SVG" />
+</p>
 
 
 
