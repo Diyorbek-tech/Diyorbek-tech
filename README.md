@@ -40,12 +40,15 @@
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Diyorbek-tech&layout=compact&theme=tokyonight" />
 </p>
 
+### 📊 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Diyorbek-tech&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Diyorbek-tech&theme=tokyonight" />
+</p>
 
-![Metrics](https://metrics.lecoq.io/Diyorbek-tech?template=classic&repositories.forks=true&isocalendar=1&languages=1&achievements=1&notable=1&activity=1&repositories=100&repositories.affiliations=owner&repositories.batch=100)
-
-
-[![GitHub Skyline](https://skyline.github.com/Diyorbek-tech/2023)](https://skyline.github.com/Diyorbek-tech)
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diyorbek-tech&layout=compact&theme=tokyonight" />
+</p>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diyorbek-tech&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
