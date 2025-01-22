@@ -2,9 +2,6 @@
 <h3 align="center">A passionate <span style="color:#00ffcc;">Django & Python Backend Developer</span></h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding GIF"/>
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=Assalomu+Aleykum!;I'm+Diyorbek+Xasanboyev;Django+%26+Python+Backend+Developer;Always+Striving+for+Excellence!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
