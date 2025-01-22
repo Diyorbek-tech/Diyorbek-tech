@@ -38,13 +38,6 @@
 
 
 
-
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Diyorbek-tech&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Diyorbek-tech&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Assalomu+Alaykum!+Men+Diyorbek.;Backend+Dasturchiman!;Python+va+Django+Mutaxassisi" alt="Typing SVG" />
 </p>
@@ -60,8 +53,8 @@
 
 ## 📫 Let's Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/diyorbek-xasanboyev-153b98252/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/xasanboyev_diyorbek"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
